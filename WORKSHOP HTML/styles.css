@@ -1,0 +1,25 @@
+nav {
+    display: inline-block;
+    float: right;
+  }
+  nav a {
+    font-size: 30px;
+    color:   red;
+    text-decoration: none;
+  }
+  body {
+    font-family: "Roboto", sans-serif;
+  }
+  .important {
+    font-size: 30px;
+  }
+.twitch {
+    font-size: 30px;
+    color: purple;
+    text-decoration: double;
+}
+  
+
+  
+  
+  
